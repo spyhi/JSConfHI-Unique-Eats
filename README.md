@@ -69,6 +69,11 @@ Grocery store chain set apart locally for its excellent ahi poke bowls.
 
 [Website](https://www.foodland.com/stores/foodland-farms-ala-moana) | [Yelp](https://www.yelp.com/biz/foodland-farms-honolulu-5) | [Google Maps](https://www.google.com/maps/place/Foodland+Farms/@21.2924475,-157.8489179,17z/data=!3m2!4b1!5s0x7c006df06800f5bd:0x7edf0a3ab5fa79dc!4m5!3m4!1s0x7c006df045a36271:0xcf7bb8859ae236c3!8m2!3d21.2924425!4d-157.8467292)
 
+## Da Cove Health Bar & Cafe
+Three words: Seared Ahi Sandwich. Great little cafe with health-conscious options and smoothies. Also a great place to have an acai bowl.
+
+[Website](http://dacove.com/) | [Yelp](https://www.yelp.com/biz/da-cove-health-bar-and-cafe-honolulu-4) | [Google Maps](https://goo.gl/maps/ReQWNgMyZdhXNb8E9)
+
 # Worth the Drive
 
 ## Moku Kitchen
