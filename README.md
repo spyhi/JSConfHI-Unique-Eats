@@ -37,10 +37,6 @@ A local fast food chain known for its affordable meals--a window into pragmatic 
 
 [Website](https://zippys.com/) | [Yelp](https://www.yelp.com/biz/zippys-kapahulu-honolulu) | [Google Maps](https://www.google.com/maps/place/Zippy's+Kapahulu/@21.278441,-157.8137746,18.92z/data=!4m8!1m2!2m1!1s7-Eleven!3m4!1s0x0:0x77f4a667aa77d923!8m2!3d21.2782729!4d-157.8137229)
 
-## Da Cove
-A popular health food spot just past the zoo, known for açaí bowls with plentiful fresh fruit.
-
-[Website](http://dacove.com/) | [Yelp](https://www.yelp.com/biz/da-cove-health-bar-and-cafe-honolulu-4) | [Google Maps](https://www.google.com/maps/place/da+Cove+Health+Bar+and+Cafe/@21.269419,-157.8156195,16.75z/data=!4m5!3m4!1s0x7c00727cf2f2bab1:0x72036e949ed02e64!8m2!3d21.2688132!4d-157.8135977)
 
 # Might Want to Drive
 
