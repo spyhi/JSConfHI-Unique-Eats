@@ -5,12 +5,12 @@ An incomplete list of cool restaurants you'll only find in Hawaii. PRs welcome!
 # Walkable
 
 ## Tiki's Bar and Grill
-Around the corner from the Marriott Waikiki, Tiki's has an upscale selection of locally-inspired meals and cocktails.
+Around the corner from the ‘Alohilani, Tiki's has an upscale selection of locally-inspired meals and cocktails.
 
 [Website](https://www.tikisgrill.com/dinner-menu) | [Yelp](https://www.yelp.com/biz/tikis-grill-and-bar-honolulu) | [Google Maps](https://www.google.com/maps/place/Tikis+Grill+%26+Bar/@21.2723981,-157.8229601,19.33z/data=!4m5!3m4!1s0x7c007270c1a4e7a5:0x13810b9592914a9a!8m2!3d21.2724386!4d-157.822561)
 
 ## Tucker & Bevvy
-Near the Marriott and known for its breakfast menu, *Tucker & Bevvy* is inspired by Australiand and New Zealand cuisine and makes its meals "picnic-ready" so you can hit the beach ASAP!
+Near the ‘Alohilani and known for its breakfast menu, *Tucker & Bevvy* is inspired by Australiand and New Zealand cuisine and makes its meals "picnic-ready" so you can hit the beach ASAP!
 
 [Website](https://tuckerandbevvy.com/) | [Yelp](https://www.yelp.com/biz/tucker-and-bevvy-honolulu-5) | [Google Maps](https://www.google.com/maps/place/Tucker+%26+Bevvy+Picnic+Food/@21.2717307,-157.8225152,20.46z/data=!4m5!3m4!1s0x7c0072709607a161:0x6023fac91f69fd78!8m2!3d21.2717298!4d-157.8223955)
 
@@ -23,7 +23,7 @@ A Hawaii-based made-to-order burger franchise, originally known for its 50's-sty
 # A Longer Walk
 
 ## Rainbow Drive-In
-A local landmark and home to some of Hawaii's best mix plates, and probably one of the more authentic local experiences available near Waikiki. Walkable distance from the Marriott, but more than a quick trip around the corner.
+A local landmark and home to some of Hawaii's best mix plates, and probably one of the more authentic local experiences available near Waikiki. Walkable distance from the ‘Alohilani, but more than a quick trip around the corner.
 
 [Website](http://rainbowdrivein.com/) | [Yelp](https://www.yelp.com/biz/rainbow-drive-in-honolulu) | [Google Maps](https://www.google.com/maps/place/Rainbow+Drive-In/@21.2755947,-157.8160817,18.04z/data=!4m8!1m2!2m1!1s7-Eleven!3m4!1s0x7c00727f31c4a949:0xb56da5e39fe7be61!8m2!3d21.2759357!4d-157.8145507)
 
@@ -37,6 +37,10 @@ A local fast food chain known for its affordable meals--a window into pragmatic 
 
 [Website](https://zippys.com/) | [Yelp](https://www.yelp.com/biz/zippys-kapahulu-honolulu) | [Google Maps](https://www.google.com/maps/place/Zippy's+Kapahulu/@21.278441,-157.8137746,18.92z/data=!4m8!1m2!2m1!1s7-Eleven!3m4!1s0x0:0x77f4a667aa77d923!8m2!3d21.2782729!4d-157.8137229)
 
+## Da Cove
+A popular health food spot just past the zoo, known for açaí bowls with plentiful fresh fruit.
+
+[Website](http://dacove.com/) | [Yelp](https://www.yelp.com/biz/da-cove-health-bar-and-cafe-honolulu-4) | [Google Maps](https://www.google.com/maps/place/da+Cove+Health+Bar+and+Cafe/@21.269419,-157.8156195,16.75z/data=!4m5!3m4!1s0x7c00727cf2f2bab1:0x72036e949ed02e64!8m2!3d21.2688132!4d-157.8135977)
 
 # Might Want to Drive
 
